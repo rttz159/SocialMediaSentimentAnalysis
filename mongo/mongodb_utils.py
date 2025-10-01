@@ -3,7 +3,7 @@ import certifi
 
 # Author: Tan Zi Yang
 
-CONNECTION_STRING = "mongodb+srv://public:xX2ZTACexOWl6jEb@cluster.riznieq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster"
+CONNECTION_STRING = "PLACEHOLDER"
 
 class PyMongoUtils:
     

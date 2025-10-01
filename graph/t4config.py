@@ -3,9 +3,9 @@ from neo4j import GraphDatabase
 # Author: LEWIS LIM RONG ZHEN
 
 class Config:
-    NEO4J_URI = "neo4j+s://c59ab6f6.databases.neo4j.io"
-    NEO4J_USER = "neo4j"
-    NEO4J_PASSWORD = "gntkm-_ASiW47o5IxfFXXGD6Jhr-T86r8SUMmOAye4U"
+    NEO4J_URI = "PLACEHOLDER"
+    NEO4J_USER = "PLACEHOLDER"
+    NEO4J_PASSWORD = "PLACEHOLDER"
     PATHS = {
         "reddit_comment": "hdfs://localhost:9000/user/student/processed_data/reddit/comment.parquet",
         "reddit_post": "hdfs://localhost:9000/user/student/processed_data/reddit/post.parquet",
